@@ -1,0 +1,130 @@
+first_name: Ignacio
+last_name: Sabino
+
+motto: Geoscientist, GIS & Data-Driven
+
+focus: Spatial Data Analysis & Modeling
+
+summary: |
+  Experienced GIS expert and geoscientist with a strong background in spatial data analysis, remote sensing, and geological modeling. Since 2013, I have worked in the mining, energy, and environmental sectors, contributing to decision-making through geospatial analysis and data integration.
+
+  Passionate about solving environmental and exploration challenges with geospatial technologies, advanced mapping tools, and data science techniques. Skilled in cross-functional collaboration and regulatory compliance.
+
+avatar: https://randomuser.me/api/portraits/men/95.jpg
+
+email: ignacio.sabino@gmail.com
+phone: +34 627968527
+website: https://github.com/IgnacioSabinoG
+linkedin: ignacio-sabino
+github: IgnacioSabinoG
+
+languages:
+  - idiom: Spanish
+    level: Native
+
+  - idiom: English
+    level: Fluent
+
+  - idiom: Portuguese
+    level: Fluent
+
+  - idiom: German
+    level: Intermediate
+
+  - idiom: French
+    level: Intermediate
+
+interests:
+  - item: Open Geospatial Tools
+  - item: Environmental Sustainability
+  - item: Data Science & Machine Learning
+
+Education:
+- degree: Geological Engineering
+  university: Universidad Central de Venezuela (UCV)
+  time: 1990 - 1995
+  details: |
+    Awards: Best Academic Performance UCV and Excellence in Geology (MEM-UCV-PDVSA).
+    Title equivalence validated in Argentina and Spain.
+
+- role: GIS & Geotechnical Consultant (Mining)
+  time: 2020 - 2021
+  company: Aminco SA, Argentina
+  details: |
+    Supported lithium exploration projects with spatial analysis and geotechnical evaluations.
+    Integrated climate and environmental datasets using GIS.
+
+- role: GIS Analyst & Database Manager
+  time: 2016 - 2021
+  company: Tecpetrol S.A. (Techint Group), Buenos Aires
+  details: |
+    Designed corporate spatial databases for Latin America.
+    Managed seismic and well data using ArcGIS, Kingdom, and Landmark software.
+
+- role: New Ventures Geologist (Unconventional)
+  time: 2013 - 2016
+  company: Tecpetrol Corporation, Houston, USA
+  details: |
+    Managed ArcGIS projects integrating seismic, well, and environmental data.
+    Delivered exploration proposals and environmental assessments in Latin America.
+
+- role: Exploration Geologist (Unconventional)
+  time: 2009 - 2013
+  company: Tecpetrol S.A., Buenos Aires
+  details: |
+    Conducted basin analysis, seismic interpretation, and heavy oil field discoveries in Colombia.
+
+- role: Development and Exploration Geologist
+  time: 2006 - 2009
+  company: Tecpetrol S.A., Patagonia Argentina
+  details: |
+    Proposed wells and developed sedimentary and reservoir models in San Jorge Basin.
+
+- role: Mineral Exploration Geologist
+  time: 2004 - 2006
+  company: Comisión Nacional de Energía Atómica, Argentina
+  details: |
+    Focused on uranium and copper deposits in the Andes.
+
+- role: Research Scientist
+  time: 2000 - 2006
+  company: Universidade Federal de Pernambuco / UNSa
+  details: |
+    Researched the Cretaceous-Tertiary boundary and calcareous sections in South America.
+
+- role: Teaching Assistant
+  time: 1997 - 2002
+  company: Universidad Católica de Salta
+  details: |
+    Assistant Professor in Mathematical Analysis.
+
+assignments:
+  - title: 3D Geological Modeling in Guatemala
+    tagline: Integration of UAV and geological data for marble reserve estimation and slope stability.
+
+  - title: Lithium GIS Platform
+    tagline: Development of a GIS framework merging environmental, hydrological, and geotechnical layers.
+
+  - title: Corporate Geodatabase Design
+    tagline: Built spatial data infrastructure for Latin America exploration assets at Tecpetrol.
+
+  - title: Seismic + Environmental Risk Assessment
+    tagline: Integrated environmental compliance layers into seismic and well planning using ArcGIS.
+
+  - name: Python (Jupyter & Colab)
+    level: 85%
+
+  - name: Remote Sensing & UAV
+    level: 80%
+
+  - name: SQL & Geodatabases
+    level: 80%
+
+  - name: AutoCAD & MapInfo
+    level: 85%
+
+  - name: Spatial Modeling & Analysis
+    level: 90%
+
+  - name: Data Science for Geoscience
+    level: 90%
